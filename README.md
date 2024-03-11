@@ -1,6 +1,7 @@
 # my-js-bak
 
 ## 特别声明
+本人只是删除了不可用的库
 本仓库发布的脚本及其中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
 
 本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
@@ -32,8 +33,11 @@
 #### 运行说明
 旧版本：
 ```bash
-ql repo https://github.com/Huansheng1/my-qinglong-js.git "" "sendNotify.js|utils.js|SendNotify" "sendNotify.js|utils.js|SendNotify" "main"
+https://github.com/duzidada/qing_duzi.git "" "sendNotify.js|utils.js|SendNotify" "sendNotify.js|utils.js|SendNotify" "main"
 ```
+原作者的
+ ql repo https://github.com/Huansheng1/my-qinglong-js.git "" "sendNotify.js|utils.js|SendNotify" "sendNotify.js|utils.js|SendNotify" "main"
+
 新版：  
 新建订阅 - 在名称处粘贴上面命令，定时更新时间自己设置 - 
 ![](https://pic.imgdb.cn/item/64777068f024cca1734809e1.jpg)、![](https://pic.imgdb.cn/item/64777091f024cca1734833ad.jpg)
